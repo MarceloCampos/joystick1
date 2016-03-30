@@ -1,4 +1,6 @@
-# joystick1
+# Controle para meArm via Joystick Gameport (conec DB15) "joystick1"
+(meArm - robotic arm - control using Joystick Gameport(old standard conec DB15) )
+
 /*
  *  Controle via Joystick analógico com conector DB15 (GamePort - antigo)
  * 
