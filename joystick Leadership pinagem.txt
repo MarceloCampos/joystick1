@@ -1,0 +1,22 @@
+joystick Leadership model #1760 pinagem
+
+1 - +5V
+2 - gatilho
+3 - X Axis
+4 - Gnd
+5
+6 - Y Axis
+7 - Botão 2 (lateral/ menor)
+
+10 - botão 3 (lateral maior)
+
+13 - Y Axis 2
+14 - botão 4 lateral interna pequeno
+
+
+
+
+
+
+
+
